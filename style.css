@@ -1,0 +1,37 @@
+body{
+    margin: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+#button-section {
+    margin-top: 10px;
+}
+
+.button {
+    border: none;
+    color: black;
+    font-size: 24px;
+}
+
+#button-1 {
+    background-color: darkslategray;
+    color: white;
+}
+
+#button-2 {
+    background-color: burlywood
+}
+
+#button-3 {
+    background-color: goldenrod;
+}
+
+#button-4 {
+    background-color: sienna;
+    color: white;
+}
